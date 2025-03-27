@@ -1,0 +1,6 @@
+# print(type("name"))
+# print(type(123))
+# print(type(3.4))
+# print(type(True))
+# print("number of letters in your name:" + str(len(input("enter your name")))) 
+print (3 * 3 / 3 + 3 - 3 )
